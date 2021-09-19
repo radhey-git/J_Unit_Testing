@@ -1,0 +1,9 @@
+input	expected
+10	even
+20	even
+25	odd
+30	even
+35	odd
+40	even
+45	odd
+50	even
